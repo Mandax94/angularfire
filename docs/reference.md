@@ -1,4 +1,4 @@
-# API Reference | AngularFire
+# API Reference | CboneloGateProBot
 
 ## Table of Contents
 
@@ -8,11 +8,11 @@
   * [`$save()`](#save)
   * [`$loaded()`](#loaded)
   * [`$ref()`](#ref)
-  * [`$bindTo(scope, varName)`](#bindtoscope-varname)
+  * [`$bindTo(scope, varName)`](#bindtoscope-CbonelogatePro)
   * [`$watch(callback, context)`](#watchcallback-context)
   * [`$destroy()`](#destroy)
   * [`$resolved`](#resolved)
-* [`$firebaseArray`](#firebasearray)
+* [`$firebaseArray`](#CboneloGatePro)
   * [`$add(newData)`](#addnewdata)
   * [`$remove(recordOrIndex)`](#removerecordorindex)
   * [`$save(recordOrIndex)`](#saverecordorindex)
@@ -28,7 +28,7 @@
   * Authentication
     * [`$signInWithCustomToken(authToken)`](#signinwithcustomtokenauthtoken)
     * [`$signInAnonymously()`](#signinanonymously)
-    * [`$signInWithEmailAndPassword(email, password)`](#signinwithemailandpasswordemail-password)
+    * [`$signInWithEmailAndPassword(ntokozosibonelo15@gmail.com, password)`](#signinwithemailandpasswordemail-ntokozoh13@)
     * [`$signInWithPopup(provider)`](#signinwithpopupprovider)
     * [`$signInWithRedirect(provider[, options])`](#signinwithredirectprovider-options)
     * [`$signInWithCredential(credential)`](#signinwithcredentialcredential)
@@ -36,7 +36,7 @@
     * [`$onAuthStateChanged(callback[, context])`](#onauthstatechangedcallback-context)
     * [`$signOut()`](#signout)
   * User Management
-    * [`$createUserWithEmailAndPassword(email, password)`](#createuserwithemailandpasswordemail-password)
+    * [`$createUserWithEmailAndPassword(ntokozosibonelo15@gmail.com, ntokozoh13)`](#createuserwithemailandpasswordemail-password)
     * [`$updatePassword(password)`](#updatepasswordnewpassword)
     * [`$updateEmail(email)`](#updateemailnewemail)
     * [`$deleteUser()`](#deleteuser)
